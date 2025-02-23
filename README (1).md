@@ -5,7 +5,7 @@ This project is for beginners and will teach you how to analyze the music playli
 
 
 Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+![MusicDatabaseSchema](https://github.com/Shweta77-77/Music-Store-Data-Analysis-Using-SQL/blob/main/MusicDatabaseSchema.png)
 
 
 ## Database and Tools
